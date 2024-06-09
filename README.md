@@ -11,6 +11,8 @@
 > Institut Teknologi Bandung<br>
 > Semester IV Tahun 2023/2024
 
+## Forewarning
+This repository is an emergency _manual clone_. Our original repository at https://github.com/Julian-Caleb/Tubes3_Oh_hmm can't be accessed at the moment because our team member has been locked out of his github account (Julian-Caleb) since 09/06/2024. For the original commit history, you can check our report's "lampiran" section. Julian-Caleb is currently not a collaborator in this repository for the same reason (can't access account therefore can't accept invite).
 
 ## Table of Contents
 * [General Info](#general-information)
